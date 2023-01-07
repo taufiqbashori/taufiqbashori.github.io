@@ -4,7 +4,7 @@
 
 ### Exploratory Analysis
 
-[Exploratory Analysis on Genshin Impact Characters with Pandas & Seaborn: Liyue team stronger than Mondstadt?](/sample_page)
+[Exploratory Analysis on Genshin Impact Characters with Pandas & Seaborn: Liyue team stronger than Mondstadt?](https://taufiqbashori.medium.com/exploratory-analysis-on-genshin-impact-characters-with-pandas-seaborn-are-liyues-stronger-than-f46a9af07fb5)
 <img src="images/genshin_eda.jpg?raw=true"/>
 
 ---
@@ -25,11 +25,8 @@
 
 ### More Reads
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Analytics Space: 2019–2021, in Retrospect](https://taufiqbashori.medium.com/analytics-space-2019-2021-in-retrospect-7728b87a9bf0)
+
 
 ---
 
