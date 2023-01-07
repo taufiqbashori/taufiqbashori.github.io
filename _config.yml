@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My name is Taufiq and I'm working as Operations Manager in Gojek. 
   <br><br>
-  I do analytics and am learning Python 3.0 (pandas, numpy, scikit-learn). 
+  I do analytics and am learning Python 3.0 (pandas, numpy, seaborn, scikit-learn). 
   <br><br>
   <a href="https://www.linkedin.com/in/taufiq-bashori/">View My LinkedIn Profile</a> 
   
