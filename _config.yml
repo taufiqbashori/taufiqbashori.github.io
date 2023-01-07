@@ -1,9 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Taufiq Bashori # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  My name is Taufiq and I'm working as Operations Manager in Gojek. 
   <br><br>
-  Second description 
+  I handle all things analytics, and am learning Python 3.0 (pandas, numpy, scikit-learn). 
+  I'm using this website to share what I learn either through work or personal project.
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
