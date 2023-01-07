@@ -2,22 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Exploratory Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Exploratory Analysis on Genshin Impact Characters with Pandas & Seaborn: Liyue team stronger than Mondstadt?](/sample_page)
+<img src="images/genshin_eda.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Visualization
+
+[Mapping Indonesia’s Village Border with Plotly: Transforming Long Lat Coordinates to Shapefile Format](https://taufiqbashori.medium.com/mapping-indonesias-village-border-with-plotly-from-long-lat-coordinates-to-wkt-strings-975fd002326e)
+<img src="images/idn_plotly.jpg?raw=true"/>
+
+---
+
+### Statistics & ML
+
+[What Predict Work-life Balance? Uncovering Insights from 15,000+ Happiness Survey Data using Scikit-Learn Linear Regression](https://medium.com/analytics-vidhya/what-predict-work-life-balance-uncovering-insights-from-15-000-happiness-survey-data-70e7f485f20b)
+<img src="images/worklife_regression.jpg?raw=true"/>
+
+---
+
+### More Reads
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
